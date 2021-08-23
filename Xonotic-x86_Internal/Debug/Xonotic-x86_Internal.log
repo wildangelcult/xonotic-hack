@@ -1,0 +1,6 @@
+﻿  aimbot.cpp
+D:\Projects\Xonotic-x86_Internal\Xonotic-x86_Internal\aimbot.cpp(11,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Xonotic-x86_Internal\Xonotic-x86_Internal\aimbot.cpp(12,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Xonotic-x86_Internal\Xonotic-x86_Internal\aimbot.cpp(19,48): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Xonotic-x86_Internal\Xonotic-x86_Internal\aimbot.cpp(37,39): warning C4018: '<': signed/unsigned mismatch
+  Xonotic-x86_Internal.vcxproj -> D:\Projects\Xonotic-x86_Internal\Debug\Xonotic-x86_Internal.dll
